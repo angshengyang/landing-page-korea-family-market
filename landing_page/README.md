@@ -4,9 +4,8 @@
 
 ## Preview
 
-[![Landing Page Preview](https://startbootstrap.com/assets/img/screenshots/themes/landing-page.png)](https://startbootstrap.github.io/startbootstrap-landing-page/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-landing-page/)**
+**[View Live Preview](https://github.com/angshengyang/landing-page-korea-family-market/blob/master/landing_page/index.html)**
 
 ## Status
 
