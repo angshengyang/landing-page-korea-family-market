@@ -5,7 +5,7 @@
 ## Preview
 
 
-**[View Live Preview](https://github.com/angshengyang/landing-page-korea-family-market/blob/master/landing_page/index.html)**
+**[View Live Preview](http://htmlpreview.github.io/?https://github.com/angshengyang/landing-page-korea-family-market/blob/master/landing_page/index.html)**
 
 ## Status
 
